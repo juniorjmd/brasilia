@@ -1,0 +1,4 @@
+INSERT INTO UserApp (id, name) VALUES ( 1 , 'Jose Dominguez');
+INSERT INTO UserApp (id, name) VALUES ( 2 , cls 'Betty Padilla Dominguez');
+INSERT INTO task (title, description, completed, user_id) VALUES ('Task 1', 'Description 1', false, 1);
+INSERT INTO task (title, description, completed, user_id) VALUES ('Task 2', 'Description 2', true, 1);
